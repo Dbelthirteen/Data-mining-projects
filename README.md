@@ -1,9 +1,18 @@
 # Data Mining Projects
 
-This repository contains several data mining and data analysis projects developed using Python in Google Colab.
-The projects demonstrate the implementation of common data mining techniques such as data preprocessing, exploratory data analysis (EDA), visualization, and basic machine learning methods.
+This repository contains several data mining and data analysis projects developed using Python in Google Colab. The projects demonstrate the implementation of common data mining techniques such as data preprocessing, exploratory data analysis (EDA), visualization, and basic machine learning methods.
 
 These projects were completed as part of the **Data Mining coursework in the Information Systems program at Universitas Ahmad Dahlan**.
+
+---
+
+# Open Notebooks in Google Colab
+
+You can directly open and run the notebooks using Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dbelthirteen/Data-mining-projects)
+
+Opening the notebooks in Google Colab allows users to execute the code, explore the analysis, and reproduce the results directly in the cloud environment.
 
 ---
 
@@ -42,7 +51,7 @@ The main objectives of these projects are:
 * Understanding the process of **data mining and knowledge discovery**
 * Learning how to **analyze datasets to identify patterns and insights**
 * Practicing **data preprocessing and visualization**
-* Implementing basic **machine learning and data mining techniques**
+* Implementing **basic machine learning and data mining techniques**
 
 ---
 
